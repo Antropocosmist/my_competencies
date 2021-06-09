@@ -87,18 +87,18 @@ https://www.youtube.com/channel/UC7ehA2E3lPUKX1gLnXOgyyA <br />
 [Educational chat for blind people](https://t.me/blind_dev_chat) <br />
 
 Also I'm owner or admin in this groups: <br />
-t.me/forkshow <br />
-t.me/Margin_Chat <br />
-t.me/blockchainfreelance <br />
-t.me/eth_jobs <br />
-t.me/Coin_Trade_Chat <br />
-t.me/CyberFundDev <br />
-t.me/technohumanities <br />
-t.me/technohumanities_chat <br />
-t.me/cryptoeconomics_chat <br />
+https://t.me/forkshow <br />
+https://t.me/Margin_Chat <br />
+https://t.me/blockchainfreelance <br />
+https://t.me/eth_jobs <br />
+https://t.me/Coin_Trade_Chat <br />
+https://t.me/CyberFundDev <br />
+https://t.me/technohumanities <br />
+https://t.me/technohumanities_chat <br />
+https://t.me/cryptoeconomics_chat <br />
 
-[my GitHub](https://github.com/Antropocosmist) <br />
-[my Telegram](https://t.me/antropocosmist) <br />
-[my Twitter](https://twitter.com/ponimajushij) <br />
-[my Medium](https://antropocosmist.medium.com/) <br />
-[my Facebook](https://facebook.com/vladimir.ponimajushij) <br />
+- [my GitHub](https://github.com/Antropocosmist) <br />
+- [my Telegram](https://t.me/antropocosmist) <br />
+- [my Twitter](https://twitter.com/ponimajushij) <br />
+- [my Medium](https://antropocosmist.medium.com/) <br />
+- [my Facebook](https://facebook.com/vladimir.ponimajushij) <br />
