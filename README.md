@@ -13,9 +13,9 @@ I believe in friendship and Open Code <br />
 [Cyber](https://cyber.page/network/euler/hero/cybervaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zhhua7q) <br />
 [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=) <br />
 [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla) <br />
-<br />
+
 - I'm a co-creator of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
-TG group of DVS: t.me/DVSynctems <br />
+[TG group of DVS](https://t.me/DVSynctems) <br />
 
 - I'm Community advocate of [Cosmostation](https://cosmostation.io) <br />
 [Main Cosmostation Telegram](https://t.me/cosmostation) <br />
