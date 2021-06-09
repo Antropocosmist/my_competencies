@@ -21,7 +21,7 @@ I believe in friendship and Open Code <br />
 [Main Cosmostation Telegram](https://t.me/cosmostation) <br />
 [Russian-speaking Cosmostation Community](https://t.me/cosmostation_ru) <br />
 
-- I'm a navigator&networker in the Sputnik Network: <br />
+- I'm a networker & navigator of the Sputnik Network: <br />
 [Web-page](https://sputnik.exchange) <br />
 [Sputnik Network Community](https://t.me/Sputnik_Network) <br />
 [Sputnik Network Twitter](https://twitter.com/SputnikNetwork) <br />
