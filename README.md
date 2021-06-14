@@ -7,7 +7,7 @@ I believe in friendship and Open Code <br />
 
 - [Full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
-- I validate 7 different Networks (4 main-nets and 3 test-nets) with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
+- I validate 8 different Networks (4 main-nets and 3 test-nets) with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
 [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) <br />
 [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) <br />
 [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug) <br />
@@ -15,6 +15,7 @@ I believe in friendship and Open Code <br />
 [Cyber](https://cyber.page/network/euler/hero/cybervaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zhhua7q) <br />
 [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=) <br />
 [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla) <br />
+[Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x8v879tfarnxe6anmwaj88djwlcautxhkn4h72) <br />
 
 - I'm a co-creator of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 [TG group of DVS](https://t.me/DVSynctems) <br />
