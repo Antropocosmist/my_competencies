@@ -105,3 +105,4 @@ https://t.me/cryptoeconomics_chat <br />
 - [my Twitter](https://twitter.com/ponimajushij) <br />
 - [my Medium](https://antropocosmist.medium.com/) <br />
 - [my Facebook](https://facebook.com/vladimir.ponimajushij) <br />
+- my Discord: antropocosmist#5394
