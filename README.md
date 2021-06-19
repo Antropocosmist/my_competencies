@@ -7,14 +7,14 @@ I believe in friendship and Open Code <br />
 
 - [Full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
-- I validate 9 different Networks (4 main-nets and 3 test-nets) with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
-Main-nets: <br />
+I validate 9 different Networks with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
+- Main-nets: <br />
 [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) <br />
 [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) <br />
 [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug) <br />
 [Ki Chain](https://blockchain.ki/validator/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) <br />
 [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) <br />
-Test-nets: <br />
+- Test-nets: <br />
 [Cyber](https://cyber.page/network/euler/hero/cybervaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zhhua7q) <br />
 [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=) <br />
 [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla) <br />
