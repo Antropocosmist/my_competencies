@@ -49,6 +49,18 @@ I'm admin or creator of the next groups: <br />
 [Cosmos Ecosystem Telegram](https://t.me/CosmosEcosystem) <br />
 [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) <br />
 
+- [Persistence](https://persistence.one/) Community: <br />
+[Russian-speaking Persistence Community](https://t.me/PersistenceRussia) <br />
+[Russian-speaking Persistence News Channel](https://t.me/PersistenceNewsRussia) <br />
+
+- [Starname](https://starname.me) Community: <br />
+[Main Starname Community](https://t.me/internetofvalues) <br />
+[Russian-speaking Starname Community](https://t.me/starname_iov_russian) <br />
+[$IOV price discussion group](https://t.me/starname_iov_price) <br />
+
+- [Osmosis](https://app.osmosis.zone) Community: <br />
+[Russian-speaking Osmosis Community](https://t.me/Osmosis_ru) <br />
+
 - [Kava](https://kava.io) Community: <br />
 [Russian-speaking Kava Community](https://t.me/KavaRussian) <br />
 [Sri-Lanka Kava Community](https://t.me/kavasl) <br />
@@ -56,20 +68,11 @@ I'm admin or creator of the next groups: <br />
 [KavaTipBot Telegram](https://t.me/kavatipbot) <br />
 [KavaTipBot Twitter](https://twitter.com/KavatipbotC) <br />
 
-- [Starname](https://starname.me) Community: <br />
-[Main Starname Community](https://t.me/internetofvalues) <br />
-[Russian-speaking Starname Community](https://t.me/starname_iov_russian) <br />
-[$IOV price discussion group](https://t.me/starname_iov_price) <br />
-
 - [Ki Chain](https://foundation.ki/) Community: <br />
 [Russian-speaking Ki Chain Community](https://t.me/KiChainRu) <br />
 
 - [Secret Network](https://scrt.network/) Community: <br />
 [Russian-speaking Secret Network Community](https://t.me/scrt_russia) <br />
-
-- [Persistence](https://persistence.one/) Community: <br />
-[Russian-speaking Persistence Community](https://t.me/PersistenceRussia) <br />
-[Russian-speaking Persistence News Channel](https://t.me/PersistenceNewsRussia) <br />
 
 - [Robonomics Airlab](https://robonomics.network/) Community: <br />
 [Main Robonomics Community](t.me/robonomics) <br />
