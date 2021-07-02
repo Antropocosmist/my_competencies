@@ -24,10 +24,6 @@ I validate 10 different Networks with [POSTHUMAN Validator](https://github.com/D
 - I'm a co-creator of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 [TG group of DVS](https://t.me/DVSynctems) <br />
 
-- I'm Community advocate of [Cosmostation](https://cosmostation.io) <br />
-[Main Cosmostation Telegram](https://t.me/cosmostation) <br />
-[Russian-speaking Cosmostation Community](https://t.me/cosmostation_ru) <br />
-
 - I'm a networker & navigator of the Sputnik Network: <br />
 [Web-page](https://sputnik.exchange) <br />
 [Sputnik Network Community](https://t.me/Sputnik_Network) <br />
@@ -80,6 +76,8 @@ I'm admin or creator of the next groups: <br />
 - [Mina Protocol](https://minaprotocol.com/) Community: <br />
 [$MINA staking group](https://t.me/Mina_ru_price) <br />
 I created a video about Mina Protocol: https://youtu.be/ZmQcbV-VzFk <br />
+
+- [Cosmostation-Keplr RU unofficial](https://t.me/cosmostation_ru) <br />
 
 - I'm a resident of [ForkLog](https://forklog.com/): <br />
 https://youtube.com/playlist?list=PLVTwIlNOBqze6d1-U52IHHoR-Gg7vY2t3 <br />
