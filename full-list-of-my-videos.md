@@ -2,35 +2,41 @@
 
 ## Play list "Fork the System with Understanding"
 
-- [Difference between "wallet" and "address"](https://youtu.be/vgRCiEr8Y2o)
-- ["Three pillars" of the crypto-value distribution](https://youtu.be/YcpUKRBHvp0)
+- [Difference between "wallet" and "address". Contribution to Cosmostation and Keplr](https://youtu.be/vgRCiEr8Y2o)
+- ["Three pillars" of the crypto-value distribution. Contribution to Persistence](https://youtu.be/YcpUKRBHvp0)
 - [Community Evolution in the Digital Space](https://youtu.be/i7SQqk3pXUo)
 - [Blockchain and the First Distribution Law](https://youtu.be/HyX9WXXCImM)
 - [Blockchain and the Second Distribution Law](https://youtu.be/5WCVByxYBzw)
 - [A digital future without chance for centralization](https://youtu.be/wpYIHfkNoe4)
+- [New PoS: How pSTAKE solves problems of stakers. Contributionto Persistence](https://youtu.be/0JDAcUF1iUo)
+- [How to decentralize any service with the Cosmos Network](https://youtu.be/AsbAG_fcBBg)
+- [What is Liquidity Pool? Simple explanation. Contribution to Osmosis](https://youtu.be/Vn5-_1P4rPs)
+- [NFT, reputation and identity tokenization: how does it work? Contribution to Starname](https://youtu.be/P37yQK2aKhw)
 
 ## Play list "Understanding in the topic"
 
-- [Digitalization is Inevitable](https://youtu.be/ecJHodXB7aI)
-- [Blockchain Evolution](https://youtu.be/1JgNFkFMT7I)
-- [The history of the Internet from Web 1.0 to Web 3.0](https://youtu.be/b3MK0O6eP2g)
-- [How to keep your privacy and not lose your reputation?](https://youtu.be/CArcKRzxd78)
-- [Artificial Intelligence on guard for good?](https://youtu.be/TlkRs9xhQeY)
-- [The history of money from natural exchanges to cryptoeconomics](https://youtu.be/Etp1EAf7Vzw)
-- [Ecosystem thinking - a new paradigm for humanity](https://youtu.be/FdwnwIieRqY)
-- [Blockchain in the Smartphone](https://youtu.be/ZmQcbV-VzFk)
-- [Price of Bitcoin](https://youtu.be/5OBazgJiUEM)
-- [Fastest Blockchain or Strength in Consensus](https://youtu.be/00qqPGOwpTg)
+- [Digitalization is Inevitable. Contribution to Kava](https://youtu.be/ecJHodXB7aI)
+- [Blockchain Evolution. Contribution to Cosmos Network, Starname, Band Protocol, Iris Network, Kava and Cyber](https://youtu.be/1JgNFkFMT7I)
+- [The history of the Internet from Web 1.0 to Web 3.0. Contribution to Cyber and IPFS](https://youtu.be/b3MK0O6eP2g)
+- [How to keep your privacy and not lose your reputation? Contribution to Secret Network and Starname](https://youtu.be/CArcKRzxd78)
+- [Artificial Intelligence on guard for good? Contribution to Aigents](https://youtu.be/TlkRs9xhQeY)
+- [The history of money from natural exchanges to cryptoeconomics. Contribution to Cosmostation](https://youtu.be/Etp1EAf7Vzw)
+- [Ecosystem thinking - a new paradigm for humanity. Contribution to Cosmos Network](https://youtu.be/FdwnwIieRqY)
+- [Blockchain in the Smartphone. Contribution to Mina Protocol](https://youtu.be/ZmQcbV-VzFk)
+- [Price of Bitcoin. Contribution to Sputnik Network](https://youtu.be/5OBazgJiUEM)
+- [Fastest Blockchain or Strength in Consensus. Contribution to Solana](https://youtu.be/00qqPGOwpTg)
 - [Interview with the blind developer Denis Skripnik](https://youtu.be/gaELRtCj_tM)
 
 ## The Validator Show
 
-- [The Validator Show | Kava Network Validators - Part 1/3](https://youtu.be/Y1d-I7lINZ0)
-- [The Validator Show | Kava Network Validators - Part 2/3](https://youtu.be/JOo4n-09j7w)
-- [The Validator Show | Kava Network Validators - Part 3/3](https://youtu.be/TxoG0RDRn3g)
-- [The Validator Show | Behind IRIS Nodes](https://youtu.be/WJhWSjchYoc)
-- [The Validator Show | Behind Akashian Nodes](https://youtu.be/tee8Z0vs6l8)
-- [The Validator Show | Discovering the Cosmos](https://youtu.be/6hzLe5XmjYc)
+- [The Validator Show #1 | Kava Network Validators - Part 1/3](https://youtu.be/Y1d-I7lINZ0)
+- [The Validator Show #1 | Kava Network Validators - Part 2/3](https://youtu.be/JOo4n-09j7w)
+- [The Validator Show #1 | Kava Network Validators - Part 3/3](https://youtu.be/TxoG0RDRn3g)
+- [The Validator Show #2 | Behind IRIS Nodes](https://youtu.be/WJhWSjchYoc)
+- [The Validator Show #3 | Behind Akashian Nodes](https://youtu.be/tee8Z0vs6l8)
+- [The Validator Show #4 | Discovering the Cosmos](https://youtu.be/6hzLe5XmjYc)
+- [The Validator Show #5 | Osmosis: One Week After Genesis](https://youtu.be/Dyi3Ew_YPS4)
+- [The Validator Show #6 | Juno Network: Testing the COSMOS (second try)](https://youtu.be/DJ06Hem5IwQ)
 
 ## Interview with me
 
@@ -41,7 +47,7 @@
 - [Human, society, blockchain, state, future. Vladimir Understanding](https://youtu.be/-z1lK3W1ICo)
 - [DIGITAL IMMORTALITY](https://youtu.be/K5AfbZ7Y2EI)
 
-## Dialogues withUnderstanding
+## Dialogues with Understanding
 - [Centralized structures vs. Distributed structures. Dialogue #1](https://youtu.be/ex4VNSGZqF0)
 - [Workplaces in permissioned systems vs. Participation in permissionless systems. Dialogue #2](https://youtu.be/0AWisIh2odc)
 - [Revolution as a property of a centralized system. Dialogue #3](https://youtu.be/ivyjk3zQkPA)
