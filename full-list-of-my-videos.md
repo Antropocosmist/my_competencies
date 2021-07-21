@@ -9,8 +9,8 @@
 - [Blockchain and the Second Distribution Law](https://youtu.be/5WCVByxYBzw)
 - [A digital future without chance for centralization](https://youtu.be/wpYIHfkNoe4)
 - [New PoS: How pSTAKE solves problems of stakers. Contributionto Persistence](https://youtu.be/0JDAcUF1iUo)
-- [How to decentralize any service with the Cosmos Network](https://youtu.be/AsbAG_fcBBg)
 - [What is Liquidity Pool? Simple explanation. Contribution to Osmosis](https://youtu.be/Vn5-_1P4rPs)
+- [How to decentralize any service with the Cosmos Network](https://youtu.be/AsbAG_fcBBg)
 - [NFT, reputation and identity tokenization: how does it work? Contribution to Starname](https://youtu.be/P37yQK2aKhw)
 
 ## Play list "Understanding in the topic"
