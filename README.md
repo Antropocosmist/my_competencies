@@ -7,7 +7,7 @@ I believe in friendship and Open Code <br />
 
 - [Full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
-I validate 10 different Networks with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
+I validate 11 different Networks with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
 
 6 main-nets: <br />
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn)
@@ -17,11 +17,12 @@ I validate 10 different Networks with [POSTHUMAN Validator](https://github.com/D
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [LikeCoin](https://likecoin.bigdipper.live/validator/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld)
 
-4 test-nets: <br />
+5 test-nets: <br />
 - [Cyber](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=)
 - [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla)
 - [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x8v879tfarnxe6anmwaj88djwlcautxhkn4h72)
+- [OmniFlix Network](https://explorer.omniflix.network/validator/omniflixvaloper16qyrz9gwr3dekf78c0e36tkwcelqsp8w2cdljz)
 
 - I'm a co-creator of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 [TG group of DVS](https://t.me/DVSynctems) <br />
