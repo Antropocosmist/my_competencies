@@ -5,7 +5,7 @@ I like to create connections, to draw, to play guitar, to sing songs, to write a
 I'm Immortalist, Posthumanist and Cosmist <br />
 I believe in friendship and Open Code <br />
 
-- [Full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
+- [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
 I validate 11 different Networks with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
 
