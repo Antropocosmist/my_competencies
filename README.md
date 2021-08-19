@@ -7,7 +7,7 @@ I believe in friendship and Open Code <br />
 
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
-I validate 11 different Networks with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
+I validate 12 different Networks (main-nets and test-nets) with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
 
 - I'm a co-creator of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 [TG group of DVS](https://t.me/DVSynctems) <br />
