@@ -12,6 +12,12 @@
 - [What is Liquidity Pool? Simple explanation. Contribution to Osmosis](https://youtu.be/Vn5-_1P4rPs)
 - [How to decentralize any service with the Cosmos Network](https://youtu.be/AsbAG_fcBBg)
 - [NFT, reputation and identity tokenization: how does it work? Contribution to Starname](https://youtu.be/P37yQK2aKhw)
+- [Regulators and Cryptocurrency: Who Really Regulates Bitcoin?](https://youtu.be/UL5OgNWHlMM)
+- [Is cryptocurrency a hoax?](https://youtu.be/Kv0_pPvljKk)
+- [Where did you get FOMO?](https://youtu.be/UwTGn6fqVHk)
+- [Accumulate vs Distribute](https://youtu.be/EBmMn5vdNb0)
+- [How long does a crypto project live?](https://youtu.be/FCenoK6yBnY)
+- [Smart contracts and bureaucracy: how to save time and nerves?](https://youtu.be/ucCIx_AsbRs)
 
 ## Play list "Understanding in the topic"
 
@@ -64,5 +70,6 @@
 - [Who and how makes money on Polkadot](https://youtu.be/rrF_mM3u7I0)
 - [THE FUTURE OF DIGITAL ART](https://youtu.be/ko_VH9u5Bkc)
 - [Bitcoin Conference 2020: New Horizons](https://youtu.be/7CY-ajLTpHs)
+- [Ethereum, DeFi and Bitcoin. What's in store for us?](https://youtu.be/iJ0nT48FzdY?t=1077)
 
 I will add more links soon...
