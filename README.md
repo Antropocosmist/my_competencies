@@ -58,6 +58,12 @@ I'm admin or creator of the next groups: <br />
 - [Secret Network](https://scrt.network/) Community: <br />
 [Russian-speaking Secret Network Community](https://t.me/scrt_russia) <br />
 
+- [Juno Network](https://junochain.com/) Community: <br />
+[Russian-speaking Juno Network Community](https://t.me/juno_ru) <br />
+
+- [Umee](https://umee.cc/) Community: <br />
+[Russian-speaking Umee Community](https://t.me/Umee_Ru) <br />
+
 - [Robonomics Airlab](https://robonomics.network/) Community: <br />
 [Main Robonomics Community](t.me/robonomics) <br />
 
