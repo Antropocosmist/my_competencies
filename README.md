@@ -26,51 +26,53 @@ You can visit my web-page: https://posthuman.digital/ <br />
 I'm admin or creator of the next groups: <br />
 
 - [Cosmos Network](https://cosmos.network) Community: <br />
-[Russian-speaking Cosmos Network Community](https://t.me/CosmosprojectRu) <br />
-[Russian-speaking Cosmos Network News Channel](https://t.me/cosmosinrussian) <br />
-[$ATOM price discussion group](https://t.me/UnofficialCosmosPriceSpeculation) <br />
+- [Russian-speaking Cosmos Network Community](https://t.me/CosmosprojectRu) <br />
+- [Russian-speaking Cosmos Network News Channel](https://t.me/cosmosinrussian) <br />
+
 
 - [Cosmos Ecosystem](https://cosmos.network/ecosystem/) Community: <br />
-[Cosmos Ecosystem Telegram](https://t.me/CosmosEcosystem) <br />
-[Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) <br />
+- [Cosmos Ecosystem Telegram](https://t.me/CosmosEcosystem) <br />
+- [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) <br />
 
 - [Persistence](https://persistence.one/) Community: <br />
-[Russian-speaking Persistence Community](https://t.me/PersistenceRussia) <br />
-[Russian-speaking Persistence News Channel](https://t.me/PersistenceNewsRussia) <br />
+- [Russian-speaking Persistence Community](https://t.me/PersistenceRussia) <br />
+- [Russian-speaking Persistence News Channel](https://t.me/PersistenceNewsRussia) <br />
+- [News channel Cosmos Ecosystem in Russian](https://t.me/CosmosEcosystemNews_ru)
+- [Russian-speaking Community of Cosmos Ecosystem](https://t.me/CosmosEcosystem_ru)
 
 - [Starname](https://starname.me) Community: <br />
-[Main Starname Community](https://t.me/internetofvalues) <br />
-[Russian-speaking Starname Community](https://t.me/starname_iov_russian) <br />
-[$IOV price discussion group](https://t.me/starname_iov_price) <br />
+- [Main Starname Community](https://t.me/internetofvalues) <br />
+- [Russian-speaking Starname Community](https://t.me/starname_iov_russian) <br />
+- [$IOV price discussion group](https://t.me/starname_iov_price) <br />
 
 - [Osmosis](https://app.osmosis.zone) Community: <br />
-[Russian-speaking Osmosis Community](https://t.me/Osmosis_ru) <br />
+- [Russian-speaking Osmosis Community](https://t.me/Osmosis_ru) <br />
 
 - [Kava](https://kava.io) Community: <br />
-[Russian-speaking Kava Community](https://t.me/KavaRussian) <br />
-[Sri-Lanka Kava Community](https://t.me/kavasl) <br />
-[$HARD price discussion group](https://t.me/hard_price) <br />
-[KavaTipBot Telegram](https://t.me/kavatipbot) <br />
-[KavaTipBot Twitter](https://twitter.com/KavatipbotC) <br />
+- [Russian-speaking Kava Community](https://t.me/KavaRussian) <br />
+- [Sri-Lanka Kava Community](https://t.me/kavasl) <br />
+- [$HARD price discussion group](https://t.me/hard_price) <br />
+- [KavaTipBot Telegram](https://t.me/kavatipbot) <br />
+- [KavaTipBot Twitter](https://twitter.com/KavatipbotC) <br />
 
 - [Ki Chain](https://foundation.ki/) Community: <br />
-[Russian-speaking Ki Chain Community](https://t.me/KiChainRu) <br />
+- [Russian-speaking Ki Chain Community](https://t.me/KiChainRu) <br />
 
 - [Secret Network](https://scrt.network/) Community: <br />
-[Russian-speaking Secret Network Community](https://t.me/scrt_russia) <br />
+- [Russian-speaking Secret Network Community](https://t.me/scrt_russia) <br />
 
 - [Juno Network](https://junochain.com/) Community: <br />
-[Russian-speaking Juno Network Community](https://t.me/juno_ru) <br />
+- [Russian-speaking Juno Network Community](https://t.me/juno_ru) <br />
 
 - [Umee](https://umee.cc/) Community: <br />
-[Russian-speaking Umee Community](https://t.me/Umee_Ru) <br />
+- [Russian-speaking Umee Community](https://t.me/Umee_Ru) <br />
 
 - [Robonomics Airlab](https://robonomics.network/) Community: <br />
-[Main Robonomics Community](t.me/robonomics) <br />
+- [Main Robonomics Community](t.me/robonomics) <br />
 
 - [Mina Protocol](https://minaprotocol.com/) Community: <br />
-[$MINA staking group](https://t.me/Mina_ru_price) <br />
-I created a video about Mina Protocol: https://youtu.be/ZmQcbV-VzFk <br />
+- [$MINA staking group](https://t.me/Mina_ru_price) <br />
+- I created a video about Mina Protocol: https://youtu.be/ZmQcbV-VzFk <br />
 
 - [Cosmostation-Keplr RU unofficial](https://t.me/cosmostation_ru) <br />
 
