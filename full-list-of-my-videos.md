@@ -18,6 +18,11 @@
 - [Accumulate vs Distribute](https://youtu.be/EBmMn5vdNb0)
 - [How long does a crypto project live?](https://youtu.be/FCenoK6yBnY)
 - [Smart contracts and bureaucracy: how to save time and nerves?](https://youtu.be/ucCIx_AsbRs)
+- [Digital values: the difference between Coins and Tokens](https://youtu.be/6wobl104wqc)
+- [What is the difference between CEX and DEX?](https://youtu.be/wKQ7NyRD4ZQ)
+- [Stocks or tokens: where to invest?](https://youtu.be/eNPsaY_Utn0)
+- [Medicine of the future](https://youtu.be/7WyoynTMhIE)
+- [How to get cryptocurrency for free](https://youtu.be/4q6GpcctvcU)
 
 ## Play list "Understanding in the topic"
 
