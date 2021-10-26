@@ -47,7 +47,7 @@
 - [The Validator Show #3 | Behind Akashian Nodes](https://youtu.be/tee8Z0vs6l8)
 - [The Validator Show #4 | Discovering the Cosmos](https://youtu.be/6hzLe5XmjYc)
 - [The Validator Show #5 | Osmosis: One Week After Genesis](https://youtu.be/Dyi3Ew_YPS4)
-- [The Validator Show #6 | Juno Network: Testing the COSMOS (second try)](https://youtu.be/DJ06Hem5IwQ)
+- [The Validator Show #6 | Juno Network: Testing the COSMOS (second try)](https://youtu.be/ggRdwiGduCY)
 
 ## Interview with me
 
