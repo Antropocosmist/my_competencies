@@ -23,6 +23,7 @@
 - [Stocks or tokens: where to invest?](https://youtu.be/eNPsaY_Utn0)
 - [Medicine of the future](https://youtu.be/7WyoynTMhIE)
 - [How to get cryptocurrency for free](https://youtu.be/4q6GpcctvcU)
+- [Earn when Play - GameFi](https://youtu.be/sBpdT1Pl_Ag)
 
 ## Play list "Understanding in the topic"
 
