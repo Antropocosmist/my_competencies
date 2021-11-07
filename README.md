@@ -7,23 +7,25 @@ I believe in friendship and Open Code <br />
 
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
-I validate 15 different Networks (main-nets and test-nets) with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
-You can visit my web-page: https://posthuman.digital/ <br />
+## I validate 15 different Networks (main-nets and test-nets) with [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
+- You can visit my web-page: https://posthuman.digital/ <br />
 
-- I'm a co-creator of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
-[TG group of DVS](https://t.me/DVSynctems) <br />
+## I'm a vision-projector of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
+- [TG group of DVS](https://t.me/DVSynctems) <br />
 
-- I'm a networker & navigator of the Sputnik Network: <br />
-[Web-page](https://sputnik.exchange) <br />
-[Sputnik Network Community](https://t.me/Sputnik_Network) <br />
-[Sputnik Network Twitter](https://twitter.com/SputnikNetwork) <br />
-[Sputnik Network Bot](https://t.me/SputnikNetworkBot) <br />
-[Sputnik Navigation System](https://t.me/SputnikPriceBot) <br />
-[Sputnik Network News Channel](https://t.me/SputnikDish) <br />
-[Sputnik Network Art Channel](https://t.me/TelescopeArt) <br />
-[Russian-speaking Sputnik Network Community](https://t.me/Sputnik_Ru) <br />
+## I'm a mentor in the [Validator School](https://validators.network/)
 
-I'm admin or creator of the next groups: <br />
+### I'm a networker & navigator of the Sputnik Network: <br />
+- [Web-page](https://sputnik.exchange) <br />
+- [Sputnik Network Community](https://t.me/Sputnik_Network) <br />
+- [Sputnik Network Twitter](https://twitter.com/SputnikNetwork) <br />
+- [Sputnik Network Bot](https://t.me/SputnikNetworkBot) <br />
+- [Sputnik Navigation System](https://t.me/SputnikPriceBot) <br />
+- [Sputnik Network News Channel](https://t.me/SputnikDish) <br />
+- [Sputnik Network Art Channel](https://t.me/TelescopeArt) <br />
+- [Russian-speaking Sputnik Network Community](https://t.me/Sputnik_Ru) <br />
+
+## I'm admin or creator of the next groups: <br />
 
 ### [Cosmos Network](https://cosmos.network) Community: <br />
 - [Russian-speaking Cosmos Network Community](https://t.me/CosmosprojectRu) <br />
