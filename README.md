@@ -95,22 +95,22 @@ I'm admin or creator of the next groups: <br />
 ### [Robonomics Airlab](https://robonomics.network/) Community: <br />
 - [Main Robonomics Community](t.me/robonomics) <br />
 
-- I'm a resident of [ForkLog](https://forklog.com/): <br />
+### I'm a resident of [ForkLog](https://forklog.com/): <br />
 https://youtube.com/playlist?list=PLVTwIlNOBqze6d1-U52IHHoR-Gg7vY2t3 <br />
 
-- I'm a resident of S3XYBTC: <br />
+### I'm a resident of S3XYBTC: <br />
 https://youtube.com/playlist?list=PLJ4fQL5com1NLv7xJuxnCJBD988lOXa4W <br />
 
-- I'm an organisator of the Validator Show on Cosmos TV: <br />
+### I'm an organisator of the Validator Show on Cosmos TV: <br />
 https://www.youtube.com/channel/UC7ehA2E3lPUKX1gLnXOgyyA <br />
 
-- I help to the project [Aigents](https://aigents.com): <br />
+### I help to the project [Aigents](https://aigents.com): <br />
 [Russian-speaking Aigents Community](https://t.me/aigentsrussia) <br />
 
-- I help to the project Blind Dev: <br />
+### I help to the project Blind Dev: <br />
 [Educational chat for blind people](https://t.me/blind_dev_chat) <br />
 
-Also I'm owner or admin in this groups: <br />
+### Also I'm owner or admin in this groups: <br />
 https://t.me/forkshow <br />
 https://t.me/Margin_Chat <br />
 https://t.me/blockchainfreelance <br />
