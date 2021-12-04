@@ -26,6 +26,7 @@
 - [Earn when Play - GameFi](https://youtu.be/sBpdT1Pl_Ag)
 - [Validators and Delegators: who is responsible for what](https://youtu.be/p5DFMneEEzY)
 - [Where is the "cash-button"](https://youtu.be/WbNzvL4RLV4)
+- [What to expect from the Metaverse?](https://youtu.be/dlUpdQroI58)
 
 ## Play list "Understanding in the topic"
 
