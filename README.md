@@ -68,6 +68,9 @@ I believe in friendship and Open Code <br />
 - [KavaTipBot Telegram](https://t.me/kavatipbot) <br />
 - [KavaTipBot Twitter](https://twitter.com/KavatipbotC) <br />
 
+### [Juno Network](https://junochain.com/) Community: <br />
+- [Russian-speaking Juno Network Community](https://t.me/juno_ru) <br />
+
 ### [LikeCoin](https://like.co/) Community: <br />
 - [Russian-speaking LikeCoin Community](https://t.me/LikeCoinRU) <br />
 - [English-speaking LikeCoin Community](https://t.me/likecoin_dao)
@@ -75,11 +78,11 @@ I believe in friendship and Open Code <br />
 ### [Ki Chain](https://foundation.ki/) Community: <br />
 - [Russian-speaking Ki Chain Community](https://t.me/KiChainRu) <br />
 
+### [Terra](https://www.terra.money/) Community: <br />
+- [Russian-speaking Terra ($LUNA) Community](https://t.me/TerraEcosystemRussia) <br />
+
 ### [Secret Network](https://scrt.network/) Community: <br />
 - [Russian-speaking Secret Network Community](https://t.me/scrt_russia) <br />
-
-### [Juno Network](https://junochain.com/) Community: <br />
-- [Russian-speaking Juno Network Community](https://t.me/juno_ru) <br />
 
 ### [OmniFlix Network](https://www.omniflix.network/) Community: <br />
 - [Russian-speaking OmniFlix Network Community](https://t.me/OmniFlix_ru) <br />
@@ -103,6 +106,12 @@ I believe in friendship and Open Code <br />
 
 ### [Pylons](https://www.pylons.tech/) Community: <br />
 - [Russian-speaking Pylons Community](https://t.me/pylons_ru) <br />
+
+### [FirmaChain](https://firmachain.org/) Community: <br />
+- [Russian-speaking FirmaChain Community](https://t.me/FirmaChain_ru) <br />
+
+### [ODIN Protocol](https://odinprotocol.io/) Community: <br />
+- [Russian-speaking ODIN Protocol Community](https://t.me/ODINprotocol_ru) <br />
 
 ### [Robonomics Airlab](https://robonomics.network/) Community: <br />
 - [Main Robonomics Community](t.me/robonomics) <br />
