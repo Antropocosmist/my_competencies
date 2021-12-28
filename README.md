@@ -15,7 +15,17 @@ I believe in friendship and Open Code <br />
 
 ## I'm a mentor in the [Validator School](https://validators.network/)
 
+## I'm a winner of [Mina Protocol Deep Dive Video challenge](https://minaprotocol.com/blog/community-leaderboard-retrospective)
+![Screenshot from 2021-12-28 21-00-38](https://user-images.githubusercontent.com/38581319/147602949-4ef8c45c-9f2e-4fb4-848d-9be71f7c9b4f.png) <br />
+
+## I'm a [Core Value Champion of Mina Protocol](https://www.crowdcast.io/e/mina-community-spotlight-Q2-2021/7)
+![Screenshot from 2021-12-28 21-05-47](https://user-images.githubusercontent.com/38581319/147603174-14244c8a-e83d-4683-bfa5-a38a53a1f623.png) <br />
+
+## I'm one of the best [Cosmos advocates and ambassadors 2021](https://twitter.com/adriana_kalpa/status/1475450339663007746)
+![Screenshot from 2021-12-28 21-08-34](https://user-images.githubusercontent.com/38581319/147603347-21c81605-bd04-4801-978b-1443ba8cd510.png) <br />
+
 ### I'm a networker & navigator of the Sputnik Network: <br />
+
 - [Web-page](https://sputnik.exchange) <br />
 - [Sputnik Network Community](https://t.me/Sputnik_Network) <br />
 - [Sputnik Network Twitter](https://twitter.com/SputnikNetwork) <br />
