@@ -27,6 +27,8 @@
 - [Validators and Delegators: who is responsible for what](https://youtu.be/p5DFMneEEzY)
 - [Where is the "cash-button"](https://youtu.be/WbNzvL4RLV4)
 - [What to expect from the Metaverse?](https://youtu.be/dlUpdQroI58)
+- [Robots and Artificial Intelligence](https://youtu.be/N0psZLOaBxs)
+- [Gifts from Blockchains](https://youtu.be/iy2uOPzmlkg)
 
 ## Play list "Understanding in the topic"
 
