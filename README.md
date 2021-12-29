@@ -3,7 +3,7 @@
 I'm full-time enthusiast, networker and navigator <br />
 I like to create connections, to draw, to play guitar, to sing songs, to write a poetry, to make videos, and to develop interesting projects! <br />
 I'm Immortalist, Posthumanist and Cosmist <br />
-I believe in friendship and Open Code <br />
+I believe in friendship and pray to Open Code <br />
 
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
@@ -34,10 +34,6 @@ I believe in friendship and Open Code <br />
 - [Sputnik Network News Channel](https://t.me/SputnikDish) <br />
 - [Sputnik Network Art Channel](https://t.me/TelescopeArt) <br />
 - [Russian-speaking Sputnik Network Community](https://t.me/Sputnik_Ru) <br />
-
-## This is my research on Social, Economic and Cultural Problems of PoS-Networks in general, and Cosmos Network in particular
-- [In English](https://cyb.ai/ipfs/QmYTgj7uGNMcSYbLY8ue2WXD1htDydJDwJqeAjrksTAxbF)
-- [In Russian](https://cyb.ai/ipfs/QmcrhVZFonCbk4dHVQ6AVsdr9F9QkbyYMVApoeQAwVEJ5Q)
 
 ## I'm admin or creator of the next groups: <br />
 
