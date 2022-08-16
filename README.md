@@ -7,13 +7,15 @@ I believe in friendship and pray to Open Code. <br />
 
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
-## I'm a navigator of [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
+## I'm a founder of [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
 - You can visit my web-page: https://posthuman.digital/ <br />
 
-## I'm a vision-projector of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
+## I'm a co-founder of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 - [TG group of DVS](https://t.me/DVSynctems) <br />
 
 ## I'm a mentor in the [Validator School](https://validators.network/)
+
+## I'm a mentor in the [Ambassadors School](https://ambassadors.school/)
 
 ## I'm a winner of [Mina Protocol Deep Dive Video challenge](https://minaprotocol.com/blog/community-leaderboard-retrospective)
 ![Screenshot from 2021-12-28 21-00-38](https://user-images.githubusercontent.com/38581319/147602949-4ef8c45c-9f2e-4fb4-848d-9be71f7c9b4f.png) <br />
@@ -140,11 +142,9 @@ https://t.me/Coin_Trade_Chat <br />
 https://t.me/CyberFundDev <br />
 https://t.me/technohumanities <br />
 https://t.me/technohumanities_chat <br />
-https://t.me/cryptoeconomics_chat <br />
 
 - [my GitHub](https://github.com/Antropocosmist) <br />
 - [my Telegram](https://t.me/antropocosmist) <br />
 - [my Twitter](https://twitter.com/ponimajushij) <br />
 - [my Medium](https://antropocosmist.medium.com/) <br />
-- [my Facebook](https://facebook.com/vladimir.ponimajushij) <br />
 - my Discord: antropocosmist#5394
