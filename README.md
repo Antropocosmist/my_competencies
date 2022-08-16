@@ -8,9 +8,11 @@ I believe in friendship and pray to Open Code. <br />
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
 ## I'm a founder of [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
-- You can visit my web-page: https://posthuman.digital/ <br />
+- web-page: https://posthuman.digital/ <br />
+- -email: validator@posthuman.digital <br />
 
 ## I'm a co-founder of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
+- web-page: https://validators.network/ <br />
 - [TG group of DVS](https://t.me/DVSynctems) <br />
 
 ## I'm a mentor in the [Validator School](https://validators.network/)
