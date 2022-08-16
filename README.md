@@ -9,7 +9,7 @@ I believe in friendship and pray to Open Code. <br />
 
 ## I'm a founder of [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
 - web-page: https://posthuman.digital/ <br />
-- -email: validator@posthuman.digital <br />
+- email: validator@posthuman.digital <br />
 
 ## I'm a co-founder of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 - web-page: https://validators.network/ <br />
