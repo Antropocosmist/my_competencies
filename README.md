@@ -15,9 +15,17 @@ I believe in friendship and pray to Open Code. <br />
 - web-page: https://validators.network/ <br />
 - [TG group of DVS](https://t.me/DVSynctems) <br />
 
-## I'm a mentor in the [Validator School](https://validators.network/)
+## I'm a co-founder of the [Validator School](https://validators.network/)
 
 ## I'm a mentor in the [Ambassadors School](https://ambassadors.school/)
+
+## My YouTube channels and Playlists
+- [Understanding in the topic](https://www.youtube.com/playlist?list=PLJ4fQL5com1NLv7xJuxnCJBD988lOXa4W)
+- [Fork The System with Undersatnding](https://youtube.com/playlist?list=PLVTwIlNOBqze6d1-U52IHHoR-Gg7vY2t3&si=y96MZlEs0dd-L_Yz)
+- [CryptoBase](https://www.youtube.com/@CRYPTOBASED)
+- [My own channel](https://www.youtube.com/@POSTHUMAN)
+- [POSTHUMAN](https://www.youtube.com/@POSTHUMANDVS)
+- [Dialogues with Understanding](https://youtube.com/playlist?list=PLVgXf-V4TQc3fkDMPNNzmC2uBvubBHPVE&si=1cudhvu1vwQjYpDe)
 
 ## I'm a winner of [Mina Protocol Deep Dive Video challenge](https://minaprotocol.com/blog/community-leaderboard-retrospective)
 ![Screenshot from 2021-12-28 21-00-38](https://user-images.githubusercontent.com/38581319/147602949-4ef8c45c-9f2e-4fb4-848d-9be71f7c9b4f.png) <br />
