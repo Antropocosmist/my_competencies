@@ -18,6 +18,8 @@ I believe in friendship and pray to Open Code. <br />
 - web-page: https://metarchy.space/ <br />
 - Twitter: https://twitter.com/MetarchySpace <br />
 
+## I'm a founder of [Sputnik Charity Foundation](https://github.com/Sputnik-Foundation)
+
 ## I'm a co-founder of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 - web-page: https://validators.network/ <br />
 - [TG group of DVS](https://t.me/DVSynctems) <br />
