@@ -8,9 +8,9 @@ I believe in friendship and pray to Open Code. <br />
 
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
-## I'm a founder of [POSTHUMAN Validator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/POSTHUMAN.md) <br />
+## I'm a founder of [POSTHUMAN Validator](https://github.com/Validator-POSTHUMAN) <br />
 - web-page: https://posthuman.digital/ <br />
-- email: validator@posthuman.digital <br />
+- Twitter: https://twitter.com/POSTHUMAN_DVS <br />
 
 ## I'm a co-founder of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 - web-page: https://validators.network/ <br />
@@ -19,6 +19,16 @@ I believe in friendship and pray to Open Code. <br />
 ## I'm a co-founder of the [Validator School](https://validators.network/)
 
 ## I'm a mentor in the [Ambassadors School](https://ambassadors.school/)
+
+## I'm a founder of [Decentralized Digital PostState](https://github.com/PostState)
+
+## I'm a co-founder of [Sputnik Network App-chain](https://github.com/PostState/Sputnik-App-Chain)
+- web-page: https://sputnik.exchange/ <br />
+- Twitter: https://twitter.com/SputnikNetwork <br />
+
+## I'm a founder of [Metarchy](https://github.com/METARCHY)
+- web-page: https://metarchy.space/ <br />
+- Twitter: https://twitter.com/MetarchySpace <br />
 
 ## My YouTube channels and Playlists
 - [Understanding in the topic](https://www.youtube.com/playlist?list=PLJ4fQL5com1NLv7xJuxnCJBD988lOXa4W)
