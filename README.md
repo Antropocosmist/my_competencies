@@ -12,23 +12,23 @@ I believe in friendship and pray to Open Code. <br />
 - web-page: https://posthuman.digital/ <br />
 - Twitter: https://twitter.com/POSTHUMAN_DVS <br />
 
+## I'm a founder of [Decentralized Digital PostState](https://github.com/PostState)
+
+## I'm a founder of [Metarchy](https://github.com/METARCHY)
+- web-page: https://metarchy.space/ <br />
+- Twitter: https://twitter.com/MetarchySpace <br />
+
 ## I'm a co-founder of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 - web-page: https://validators.network/ <br />
 - [TG group of DVS](https://t.me/DVSynctems) <br />
 
 ## I'm a co-founder of the [Validator School](https://validators.network/)
 
-## I'm a mentor in the [Ambassadors School](https://ambassadors.school/)
-
-## I'm a founder of [Decentralized Digital PostState](https://github.com/PostState)
-
 ## I'm a co-founder of [Sputnik Network App-chain](https://github.com/PostState/Sputnik-App-Chain)
 - web-page: https://sputnik.exchange/ <br />
 - Twitter: https://twitter.com/SputnikNetwork <br />
 
-## I'm a founder of [Metarchy](https://github.com/METARCHY)
-- web-page: https://metarchy.space/ <br />
-- Twitter: https://twitter.com/MetarchySpace <br />
+## I'm a mentor in the [Ambassadors School](https://ambassadors.school/)
 
 ## My YouTube channels and Playlists
 - [Understanding in the topic](https://www.youtube.com/playlist?list=PLJ4fQL5com1NLv7xJuxnCJBD988lOXa4W)
