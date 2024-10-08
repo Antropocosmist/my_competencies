@@ -3,8 +3,8 @@
 I'm full-time enthusiast, networker and navigator <br />
 Every day I learn something new <br />
 I like to create connections, to draw, to play guitar, to sing songs, to write a poetry, to make videos, and to develop interesting projects! <br />
-I'm Immortalist, Posthumanist and Decentralist. <br />
-I believe in friendship and pray to Open Code. <br />
+I'm Immortalist, Posthumanist and Decentralist <br />
+I believe in friendship <br />
 
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
