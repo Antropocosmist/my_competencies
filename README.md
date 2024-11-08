@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e45022cb-d791-4d5f-b5c2-b73aab83acab)
+
+
 # My competencies
 
 I'm full-time enthusiast, networker and navigator <br />
