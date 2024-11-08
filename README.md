@@ -1,5 +1,3 @@
-https://github.com/Validator-POSTHUMAN/brand-book/blob/main/POSTHUMAN%20logo%20512%203D-Metall.png?raw=true
-
 # My competencies
 
 I'm full-time enthusiast, networker and navigator <br />
