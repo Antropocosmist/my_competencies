@@ -9,8 +9,9 @@ I believe in friendship <br />
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
 ## I'm a founder of [POSTHUMAN Validator](https://github.com/Validator-POSTHUMAN) <br />
-- web-page: https://posthuman.digital/ <br />
+- Web-page: https://posthuman.digital/ <br />
 - Twitter: https://twitter.com/POSTHUMAN_DVS <br />
+- GitHub: https://github.com/Validator-POSTHUMAN
 
 ## I'm a founder of [Decentralized Digital PostState](https://github.com/PostState)
 
