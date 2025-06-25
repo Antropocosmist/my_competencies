@@ -28,7 +28,8 @@ I like to create connections, to dance, to draw, to play guitar, to sing songs, 
 ## I'm a co-founder of the [Validator School](https://validators.network/)
 
 ## I'm a co-founder of [Sputnik Network App-chain](https://github.com/PostState/Sputnik-App-Chain)
-- web-page: https://sputnik.exchange/ <br />
+- web-page: https://sputnik.network/ <br />
+- MVP: https://sputnik.exchange/ <br />
 - Twitter: https://twitter.com/SputnikNetwork <br />
 
 ## I'm a mentor in the [Ambassadors School](https://ambassadors.school/)
