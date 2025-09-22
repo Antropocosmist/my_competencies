@@ -64,10 +64,6 @@ I like to create connections, to dance, to draw, to play guitar, to sing songs, 
 
 ## I'm admin or creator of the next groups: <br />
 
-### [Cosmos Network](https://cosmos.network) Community: <br />
-- [Russian-speaking Cosmos Network Community](https://t.me/CosmosprojectRu) <br />
-- [Russian-speaking Cosmos Network News Channel](https://t.me/cosmosinrussian) <br />
-
 ### [Cosmos Ecosystem](https://cosmos.network/ecosystem/) Community: <br />
 - [Cosmos Ecosystem Telegram](https://t.me/CosmosEcosystem) <br />
 - [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem) <br />
@@ -79,34 +75,12 @@ I like to create connections, to dance, to draw, to play guitar, to sing songs, 
 - [News channel Cosmos Ecosystem in Russian](https://t.me/CosmosEcosystemNews_ru)
 - [Russian-speaking Community of Cosmos Ecosystem](https://t.me/CosmosEcosystem_ru)
 
-### [Starname](https://starname.me) Community: <br />
-- [Main Starname Community](https://t.me/internetofvalues) <br />
-- [Russian-speaking Starname Community](https://t.me/starname_iov_russian) <br />
-- [$IOV price discussion group](https://t.me/starname_iov_price) <br />
-
 ### [Osmosis](https://app.osmosis.zone) Community: <br />
 - [Russian-speaking Osmosis Community](https://t.me/Osmosis_ru) <br />
 - [Osmosis School](https://t.me/Osmosis_School)
 
-### [Kava](https://kava.io) Community: <br />
-- [Russian-speaking Kava Community](https://t.me/KavaRussian) <br />
-- [Sri-Lanka Kava Community](https://t.me/kavasl) <br />
-- [$HARD price discussion group](https://t.me/hard_price) <br />
-- [KavaTipBot Telegram](https://t.me/kavatipbot) <br />
-- [KavaTipBot Twitter](https://twitter.com/KavatipbotC) <br />
-
 ### [Juno Network](https://junochain.com/) Community: <br />
 - [Russian-speaking Juno Network Community](https://t.me/juno_ru) <br />
-
-### [LikeCoin](https://like.co/) Community: <br />
-- [Russian-speaking LikeCoin Community](https://t.me/LikeCoinRU) <br />
-- [English-speaking LikeCoin Community](https://t.me/likecoin_dao)
-
-### [Ki Chain](https://foundation.ki/) Community: <br />
-- [Russian-speaking Ki Chain Community](https://t.me/KiChainRu) <br />
-
-### [Terra](https://www.terra.money/) Community: <br />
-- [Russian-speaking Terra ($LUNA) Community](https://t.me/TerraEcosystemRussia) <br />
 
 ### [Secret Network](https://scrt.network/) Community: <br />
 - [Russian-speaking Secret Network Community](https://t.me/scrt_russia) <br />
@@ -119,26 +93,8 @@ I like to create connections, to dance, to draw, to play guitar, to sing songs, 
 - [$MINA staking group](https://t.me/Mina_ru_price) <br />
 - I created a video about Mina Protocol: https://youtu.be/ZmQcbV-VzFk <br />
 
-### [Umee](https://umee.cc/) Community: <br />
-- [Russian-speaking Umee Community](https://t.me/Umee_Ru) <br />
-
-### [MediBloc](https://medibloc.com/) Community: <br />
-- [Russian-speaking MediBloc Community](https://t.me/MediBloc_ru) <br />
-
-### [Rizon](https://rizon.world/) Community: <br />
-- [Russian-speaking Rizon Community](https://t.me/rizon_atolo_ru) <br />
-
-### [GAME](https://gamenet.one/) Community: <br />
-- [Russian-speaking GAME Community](https://t.me/GamingHub_ru) <br />
-
-### [Pylons](https://www.pylons.tech/) Community: <br />
-- [Russian-speaking Pylons Community](https://t.me/pylons_ru) <br />
-
 ### [FirmaChain](https://firmachain.org/) Community: <br />
 - [Russian-speaking FirmaChain Community](https://t.me/FirmaChain_ru) <br />
-
-### [ODIN Protocol](https://odinprotocol.io/) Community: <br />
-- [Russian-speaking ODIN Protocol Community](https://t.me/ODINprotocol_ru) <br />
 
 ### [Robonomics Airlab](https://robonomics.network/) Community: <br />
 - [Main Robonomics Community](t.me/robonomics) <br />
