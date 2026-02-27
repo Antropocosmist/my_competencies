@@ -1,38 +1,34 @@
 # My competencies
 
-- I'm full-time enthusiast, networker and navigator <br />
-- I'm Immortalist, Posthumanist and Decentralist <br />
-- I believe that friendship is more valuable than economic values <br />
-
-I like to create connections, to dance, to draw, to play guitar, to sing songs, to write a poetry, to make videos, and to develop interesting projects! <br />
-
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
 
-## I'm a founder of [POSTHUMAN Validator](https://github.com/Validator-POSTHUMAN) <br />
+## Founder at [POSTHUMAN Validator](https://github.com/Validator-POSTHUMAN) <br />
 - Web-page: https://posthuman.digital/ <br />
 - Twitter: https://twitter.com/POSTHUMAN_DVS <br />
 - GitHub: https://github.com/Validator-POSTHUMAN
 
-## I'm a founder of [Decentralized Digital PostState](https://github.com/PostState)
+## Founder at [Decentralized Digital PostState](https://github.com/PostState)
 
-## I'm a founder of [Metarchy](https://github.com/METARCHY)
+## Founder at [Metarchy](https://github.com/METARCHY)
 - web-page: https://metarchy.space/ <br />
 - Twitter: https://twitter.com/MetarchySpace <br />
 
-## I'm a founder of [Sputnik Charity Foundation](https://github.com/Sputnik-Foundation)
+## Founder at [Sputnik Charity Foundation](https://github.com/Sputnik-Foundation)
 
-## I'm a co-founder of [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
+## Co-founder at [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
 - web-page: https://validators.network/ <br />
 - [TG group of DVS](https://t.me/DVSynctems) <br />
 
-## I'm a co-founder of the [Validator School](https://validators.network/)
+## Co-founder at the [Validator School](https://validators.network/)
 
-## I'm a co-founder of [Sputnik Network App-chain](https://github.com/PostState/Sputnik-App-Chain)
+## Co-founder of [Sputnik Network App-chain](https://github.com/PostState/Sputnik-App-Chain)
 - web-page: https://sputnik.network/ <br />
 - MVP: https://sputnik.exchange/ <br />
 - Twitter: https://twitter.com/SputnikNetwork <br />
 
-## I'm a mentor in the [Ambassadors School](https://ambassadors.school/)
+## Member of the [Lido CSM Committee](https://research.lido.fi/t/community-staking-module-committee/8333/8)
+
+## Mentor in the [Ambassadors School](https://ambassadors.school/)
 
 ## My YouTube channels and Playlists
 - [Understanding in the topic](https://www.youtube.com/playlist?list=PLJ4fQL5com1NLv7xJuxnCJBD988lOXa4W)
@@ -42,13 +38,13 @@ I like to create connections, to dance, to draw, to play guitar, to sing songs, 
 - [POSTHUMAN](https://www.youtube.com/@POSTHUMANDVS)
 - [Dialogues with Understanding](https://youtube.com/playlist?list=PLVgXf-V4TQc3fkDMPNNzmC2uBvubBHPVE&si=1cudhvu1vwQjYpDe)
 
-## I'm a winner of [Mina Protocol Deep Dive Video challenge](https://minaprotocol.com/blog/community-leaderboard-retrospective)
+## Winner of [Mina Protocol Deep Dive Video challenge](https://minaprotocol.com/blog/community-leaderboard-retrospective)
 ![Screenshot from 2021-12-28 21-00-38](https://user-images.githubusercontent.com/38581319/147602949-4ef8c45c-9f2e-4fb4-848d-9be71f7c9b4f.png) <br />
 
-## I'm a [Core Value Champion of Mina Protocol](https://www.crowdcast.io/e/mina-community-spotlight-Q2-2021/7)
+## [Core Value Champion of Mina Protocol](https://www.crowdcast.io/e/mina-community-spotlight-Q2-2021/7)
 ![Screenshot from 2021-12-28 21-05-47](https://user-images.githubusercontent.com/38581319/147603174-14244c8a-e83d-4683-bfa5-a38a53a1f623.png) <br />
 
-## I'm one of the best [Cosmos advocates and ambassadors 2021](https://twitter.com/adriana_kalpa/status/1475450339663007746)
+## One of the best [Cosmos advocates and ambassadors 2021](https://twitter.com/adriana_kalpa/status/1475450339663007746)
 ![Screenshot from 2021-12-28 21-08-34](https://user-images.githubusercontent.com/38581319/147603347-21c81605-bd04-4801-978b-1443ba8cd510.png) <br />
 
 ## I'm a networker & navigator of the Sputnik Network: <br />
