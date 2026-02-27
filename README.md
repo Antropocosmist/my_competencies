@@ -1,3 +1,7 @@
+Vladimir Understanding
+
+Full-time enthusiast
+
 # My competencies
 
 - [Not full list of my videos](https://github.com/Antropocosmist/my_competencies/blob/main/full-list-of-my-videos.md)
