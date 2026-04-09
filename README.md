@@ -11,6 +11,8 @@ Full-time enthusiast
 - Twitter: https://twitter.com/POSTHUMAN_DVS <br />
 - GitHub: https://github.com/Validator-POSTHUMAN
 
+## Founder at [AI School "Conductor"](https://github.com/Distributed-Validators-Synctems/AI-School)
+
 ## Founder at [Decentralized Digital PostState](https://github.com/PostState)
 
 ## Founder at [Metarchy](https://github.com/METARCHY)
