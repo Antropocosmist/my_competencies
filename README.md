@@ -13,6 +13,9 @@ Full-time enthusiast
 
 ## Founder at [AI School "Conductor"](https://github.com/Distributed-Validators-Synctems/AI-School)
 
+## Networker in [NovicIAdo Tech Hub](https://github.com/NovicIAdo)
+- web-page: https://noviciado.com
+
 ## Founder at [Decentralized Digital PostState](https://github.com/PostState)
 
 ## Founder at [Metarchy](https://github.com/METARCHY)
