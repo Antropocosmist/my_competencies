@@ -25,6 +25,7 @@ Full-time enthusiast
 ## Founder at [Sputnik Charity Foundation](https://github.com/Sputnik-Foundation)
 
 ## Co-founder at [Distributed Validators Synctems](https://github.com/Distributed-Validators-Synctems) <br />
+- Game: https://metarchy.posthuman.digital <br />
 - web-page: https://validators.network/ <br />
 - [TG group of DVS](https://t.me/DVSynctems) <br />
 
