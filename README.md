@@ -35,6 +35,8 @@ Full-time enthusiast
 - MVP: https://sputnik.exchange/ <br />
 - Twitter: https://twitter.com/SputnikNetwork <br />
 
+## Superteam member of [La Familia](https://lafamilia.so/)
+
 ## Member of the [Lido CSM Committee](https://research.lido.fi/t/community-staking-module-committee/8333/8)
 
 ## Mentor in the [Ambassadors School](https://ambassadors.school/)
