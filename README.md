@@ -40,6 +40,8 @@ Full-time enthusiast
 
 ## Member of the [Lido CSM Committee](https://research.lido.fi/t/community-staking-module-committee/8333/8)
 
+## Steward of Madrid [Logos Circle](https://logos.co/)
+
 ## Mentor in the [Ambassadors School](https://ambassadors.school/)
 
 ## My YouTube channels and Playlists
